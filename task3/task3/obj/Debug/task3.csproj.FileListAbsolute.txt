@@ -1,0 +1,7 @@
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\bin\Debug\task3.exe.config
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\bin\Debug\task3.exe
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\bin\Debug\task3.pdb
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\obj\Debug\task3.csprojAssemblyReference.cache
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\obj\Debug\task3.exe
+C:\Users\ken19980727\Desktop\ISLAB_30902\Biocreative\task3\task3\obj\Debug\task3.pdb
